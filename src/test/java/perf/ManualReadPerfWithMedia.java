@@ -1,6 +1,6 @@
 package perf;
 
-import com.fasterxml.jackson.core.*;
+import shaded.com.fasterxml.jackson.core.*;
 
 public class ManualReadPerfWithMedia extends ParserTestBase
 {

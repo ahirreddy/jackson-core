@@ -28,7 +28,7 @@ com.fasterxml.jackson.core.*;version=${project.version}
     </osgi.export>
 
     <!-- Generate PackageVersion.java into this directory. -->
-    <packageVersion.dir>com/fasterxml/jackson/core/json</packageVersion.dir>
+    <packageVersion.dir>shaded/com/fasterxml/jackson/core/json</packageVersion.dir>
     <packageVersion.package>${project.groupId}.json</packageVersion.package>
   </properties>
 

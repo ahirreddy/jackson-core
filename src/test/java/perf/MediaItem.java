@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.StringWriter;
 import java.util.*;
 
-import com.fasterxml.jackson.core.*;
+import shaded.com.fasterxml.jackson.core.*;
 
 public class MediaItem
 {

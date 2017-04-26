@@ -3,7 +3,7 @@ package perf;
 import java.io.IOException;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import com.fasterxml.jackson.core.*;
+import shaded.com.fasterxml.jackson.core.*;
 
 /**
  * Manual performance test to try out various synchronization
